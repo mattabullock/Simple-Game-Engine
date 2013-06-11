@@ -1,0 +1,42 @@
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\Demo\Demo\Demo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\Demo\Demo\Demo\bin\x86\Debug\Content\square.xnb
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\Demo\Demo\Demo\bin\x86\Debug\Content\block.xnb
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\Demo\Demo\Demo\bin\x86\Debug\Content\text.xnb
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\Demo\Demo\Demo\bin\x86\Debug\Content\exit.xnb
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\Demo\Demo\Demo\bin\x86\Debug\Content\start.xnb
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\Demo\Demo\Demo\bin\x86\Debug\Demo.exe
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\Demo\Demo\Demo\bin\x86\Debug\Demo.pdb
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\Demo\Demo\Demo\obj\x86\Debug\Demo.exe
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\Demo\Demo\Demo\obj\x86\Debug\Demo.pdb
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\Demo\Demo\Demo\bin\x86\Debug\Content\pointer.xnb
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\Demo\Demo\Demo\obj\x86\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\Demo\Demo\Demo\bin\x86\Debug\Content\block.png
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\Demo\Demo\Demo\bin\x86\Debug\Content\square.png
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\Demo\Demo\Demo\bin\x86\Debug\Content\exit.png
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\Demo\Demo\Demo\bin\x86\Debug\Content\start.png
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\Demo\Demo\Demo\bin\x86\Debug\Content\pointer.png
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\Demo\Demo\Demo\bin\x86\Debug\Demo.exe.manifest
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\Demo\Demo\Demo\bin\x86\Debug\Demo.application
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\Demo\Demo\Demo\obj\x86\Debug\Demo.exe.manifest
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\Demo\Demo\Demo\obj\x86\Debug\Demo.application
+F:\Dropbox\Demo\Demo\Demo\bin\x86\Debug\Content\square.xnb
+F:\Dropbox\Demo\Demo\Demo\bin\x86\Debug\Content\block.xnb
+F:\Dropbox\Demo\Demo\Demo\bin\x86\Debug\Content\exit.xnb
+F:\Dropbox\Demo\Demo\Demo\bin\x86\Debug\Content\start.xnb
+F:\Dropbox\Demo\Demo\Demo\bin\x86\Debug\Content\pointer.xnb
+F:\Dropbox\Demo\Demo\Demo\bin\x86\Debug\Content\text.xnb
+F:\Dropbox\Demo\Demo\Demo\bin\x86\Debug\Content\square.png
+F:\Dropbox\Demo\Demo\Demo\bin\x86\Debug\Content\block.png
+F:\Dropbox\Demo\Demo\Demo\bin\x86\Debug\Content\exit.png
+F:\Dropbox\Demo\Demo\Demo\bin\x86\Debug\Content\start.png
+F:\Dropbox\Demo\Demo\Demo\bin\x86\Debug\Content\pointer.png
+F:\Dropbox\Demo\Demo\Demo\bin\x86\Debug\Demo.exe.manifest
+F:\Dropbox\Demo\Demo\Demo\bin\x86\Debug\Demo.application
+F:\Dropbox\Demo\Demo\Demo\bin\x86\Debug\Demo.exe
+F:\Dropbox\Demo\Demo\Demo\bin\x86\Debug\Demo.pdb
+F:\Dropbox\Demo\Demo\Demo\obj\x86\Debug\Demo.csprojResolveAssemblyReference.cache
+F:\Dropbox\Demo\Demo\Demo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Dropbox\Demo\Demo\Demo\obj\x86\Debug\Demo.exe.manifest
+F:\Dropbox\Demo\Demo\Demo\obj\x86\Debug\Demo.application
+F:\Dropbox\Demo\Demo\Demo\obj\x86\Debug\Demo.exe
+F:\Dropbox\Demo\Demo\Demo\obj\x86\Debug\Demo.pdb

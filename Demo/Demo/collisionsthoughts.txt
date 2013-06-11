@@ -1,0 +1,6 @@
+Collisions:
+
+1. Find out which objects need to be checked.
+2. Check for collisions.
+3. Find details about collision.
+4. React to collision.

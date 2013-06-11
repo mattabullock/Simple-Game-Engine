@@ -1,0 +1,2 @@
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\Demo\Demo\DemoContent\obj\x86\Debug\DemoContent.contentprojResolveAssemblyReference.cache
+F:\Dropbox\Demo\Demo\DemoContent\obj\x86\Debug\DemoContent.contentprojResolveAssemblyReference.cache
